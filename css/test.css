@@ -1,0 +1,22 @@
+body{
+	background-image: url("sky.jpg");
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+}
+
+h1{
+	color: blue; font-size: 90px;text-decoration: underline;
+}
+h2{
+	font-size: 22px;color: green
+}
+
+#first{
+	font-size: 100px
+}
+
+.small1{
+	font-size: 22px
+}
